@@ -10,4 +10,4 @@ Un commit mas desde edicion
 Nueva edicion
 
 
-Cambios desde mni rama locala llamada developer01
+Cambios desde mni rama local llamada developer01 - Mi primer repo
